@@ -4,9 +4,9 @@
 
 <p align="center">
   <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGgzbnJoaGFjaHNhOTVobmc5MWx4YzNzcnZiMnBpcm50ZmRsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZechFo0yBIQpEve1Sm/giphy.gif"
-    width="250"
-    alt="Profile GIF"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJjdDc1OW9mcXdzOHUzZDhvbzRrcmUzaGdmZHdkZDA1b3QxdzY0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBfnmipP1NfTSKr2IE/giphy.gif"
+    width="300"
+    alt="My GIF"
   />
 </p>
 
