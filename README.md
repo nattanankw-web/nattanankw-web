@@ -3,8 +3,13 @@
 ### 💻 Developer | 🚀 Builder | 🎨 Tech Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGgzbnJoaGFjaHNhOTVobmc5MWx4YzNzcnZiMnBpcm50ZmRsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZechFo0yBIQpEve1Sm/giphy.gif"
+    width="250"
+    alt="Profile GIF"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/yourusername">
