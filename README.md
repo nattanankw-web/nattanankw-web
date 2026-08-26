@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Your Name!
 
-<!--
-**nattanankw-web/nattanankw-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | 🚀 Builder | 🎨 Tech Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=6C63FF" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00D4FF" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const me = {
+  name: "Your Name",
+  role: "Developer",
+  location: "Thailand 🇹🇭",
+  currentlyLearning: ["AI", "Cloud", "System Design"],
+  hobbies: ["Coding", "Music", "Gaming"],
+  motto: "Build something awesome every day 🚀"
+};
